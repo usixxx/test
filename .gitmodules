@@ -9,4 +9,4 @@
 	url = https://github.com/can1357/linux-pe.git
 [submodule "client/wolfssl"]
 	path = client/wolfssl
-	url = https://github.com/wolfSSL/wolfssl
+	url = https://github.com/wolfSSL/wolfssl.git
